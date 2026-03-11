@@ -199,7 +199,5 @@ CREATE TABLE TBL_GIFT(
 );
 
 
-
-
 -- 정규화
 
